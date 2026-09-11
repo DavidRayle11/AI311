@@ -1,0 +1,73 @@
+CustomerID,CustomerName,Age,State,ZipCode,TransactionDate,TransactionAmount,TransactionsLast24H,FailedLogins,Channel,DeviceStatus,FraudLabel
+C1001,John Smith,66.0,Georgia,31401,2025-05-20,226.38,4,1,Online,New,0
+C1002,Maria Garcia,20.0,Tennessee,38103,2025-06-16,131.96,4,4,Online,Trusted,0
+C1003,Hannah Martinez,47.0,California,94105,2025-03-29,257.38,13,0,Mobile,New,0
+C1004,Michael Thomas,25.0,Tennessee,38103,2025-01-12,541.63,2,2,ATM,Trusted,0
+C1005,Linda Patel,44.0,New York,10001,2025-06-30,121.63,9,2,ATM,Trusted,1
+C1006,Sophia Taylor,24.0,Georgia,30303,2025-04-04,121.63,7,2,Branch,New,0
+C1007,Grace Wilson,44.0,Georgia,31401,2025-02-13,568.12,11,5,Online,Trusted,1
+C1008,Linda Martinez,29.0,New York,11201,2025-01-15,284.95,5,5,Mobile,New,1
+C1009,Maria Thomas,44.0,,31401,2025-05-08,99.58,4,4,ATM,Trusted,0
+C1010,Kevin Johnson,35.0,Tennessee,37902,2025-04-20,235.37,12,4,ATM,New,1
+C1011,Ethan Jackson,42.0,Georgia,99999,2025-01-29,100.09,9,3,Online,New,1
+C1012,Robert Davis,69.0,Texas,75201,2025-04-30,99.9,10,0,Branch,Trusted,0
+C1013,Linda Smith,62.0,Florida,33130,2025-03-29,182.3,11,4,ATM,New,1
+C1014,Aisha Taylor,46.0,Tennessee,,2025-02-15,29.19,1,5,ATM,Unknown,1
+C1015,Aisha Taylor,72.0,Texas,75201,2025-05-16,34.25,3,2,Mobile,Trusted,0
+C1016,Rachel Thomas,50.0,Tennessee,37201,2025-05-26,-125.5,6,2,Mobile,Trusted,0
+C1017,David Clark,71.0,Tennessee,38103,2025-02-12,62.75,3,5,Branch,Unknown,1
+C1018,Rachel White,44.0,Illinois,60601,2025-06-16,193.85,12,2,Branch,Unknown,0
+C1019,Marcus Harris,26.0,Georgia,30303,2025-02-28,68.59,2,2,Online,Trusted,0
+C1020,John Brown,64.0,Texas,75201,2025-01-19,44.68,4,0,Online,New,0
+C1021,James Clark,32.0,Illinois,60601,2025-05-02,515.84,12,4,Branch,Trusted,1
+C1022,Hannah Wilson,25.0,Tennessee,38103,,122.5,6,3,Branch,Trusted,0
+C1001,John Smith,44.0,Florida,33130,2025-05-18,157.18,13,0,Mobile,Trusted,0
+C1024,Hannah Davis,36.0,New York,11201,2025-05-21,44.21,14,0,Branch,New,0
+C1025,Linda Smith,24.0,Georgia,30303,2025-04-13,93.44,7,3,Branch,Trusted,0
+C1026,Emily Jackson,19.0,,10001,2025-05-23,163.09,13,3,ATM,Trusted,0
+C1027,Priya Johnson,31.0,Georgia,31401,2025-01-15,55.79,1,4,Online,New,1
+C1028,Maria Walker,49.0,Illinois,60601,2025-01-18,204.25,1,4,Online,New,1
+C1029,Rachel Brown,62.0,Georgia,30303,2025-01-11,,2,4,Mobile,Trusted,0
+C1030,Hannah Walker,55.0,Illinois,60601,2025-04-12,115.82,5,1,ATM,Trusted,0
+C1031,Olivia Harris,39.0,Tennessee,38103,2025-02-24,88.99,8,4,Online,Trusted,0
+C1032,Robert Moore,44.0,Tennessee,38103,2025-05-20,716.54,6,2,Mobile,Trusted,0
+C1033,Rachel Lewis,19.0,Texas,75201,2025-01-28,146.72,11,0,Mobile,Trusted,0
+C1034,Robert Anderson,44.0,California,94105,2025-03-09,60.4,12,2,Mobile,New,0
+C1035,James Garcia,24.0,Texas,75201,2025-02-03,298.62,14,2,Online,Trusted,0
+C1002,Maria Garcia,66.0,New York,11201,2025-06-26,52.58,12,3,Online,Trusted,0
+C1037,Grace Walker,54.0,Tennessee,37902,2025-01-11,177.25,3,0,ATM,Trusted,0
+C1038,Michael Martinez,61.0,Tennessee,38103,2025-02-09,28.06,13,4,Branch,Unknown,1
+C1039,Sophia Davis,70.0,Tennessee,37902,2025-04-16,47.99,1,1,ATM,New,0
+C1040,Sophia Anderson,29.0,Florida,,2025-04-28,175.45,7,0,Branch,Trusted,0
+C1041,Sophia Martinez,20.0,Texas,75201,2025-03-13,278.02,7,2,ATM,New,0
+C1042,Marcus Jackson,62.0,Illinois,60601,2025-03-09,171.69,1,0,ATM,Trusted,1
+C1043,Rachel White,41.0,Florida,33130,2025-05-28,134.52,7,4,Online,Trusted,0
+C1044,Maria White,19.0,Illinois,60601,2025-03-26,114.9,6,3,Online,Unknown,1
+C1045,Rachel Thomas,61.0,Tennessee,ABCDE,2025-06-28,42.24,9,2,Branch,Trusted,0
+C1046,Robert Wilson,45.0,Texas,75201,2025-03-19,80.49,11,5,Mobile,Trusted,0
+C1047,John Taylor,37.0,Georgia,30303,2025-04-24,100.33,13,4,ATM,Trusted,0
+C1048,Marcus Clark,69.0,,33130,2025-06-12,364.51,11,0,ATM,Trusted,0
+C1049,David Martinez,62.0,Georgia,31401,2025-03-04,198.76,13,1,Mobile,Trusted,0
+C1050,Rachel Brown,48.0,New York,10001,2025-03-04,33.16,10,1,Branch,Trusted,0
+C1051,John Patel,68.0,New York,10001,2025-03-05,195.48,3,5,Branch,Trusted,0
+C1052,Aisha Harris,27.0,New York,11201,2025-04-24,106.98,9,4,ATM,Unknown,0
+C1053,Marcus White,72.0,Illinois,60601,2025-03-05,0.0,3,5,Branch,Trusted,0
+C1054,James Lewis,50.0,Texas,75201,2025-03-02,249.62,5,3,Online,New,1
+C1055,James Thomas,39.0,Illinois,60601,2025-02-09,356.51,3,1,Mobile,Trusted,0
+C1056,David White,45.0,North Carolina,28202,2025-04-18,327.53,8,3,Online,Trusted,0
+C1057,Ethan Smith,44.0,California,94105,2025-04-10,72.72,8,0,ATM,Trusted,0
+C1058,Hannah Lee,66.0,Florida,33130,2025-01-08,114.11,8,1,ATM,Trusted,0
+C1059,Carlos Davis,72.0,New York,11201,2025-06-01,196.68,10,4,Online,Unknown,1
+C1060,Ethan Smith,24.0,Texas,75201,2025-04-08,340.09,3,3,Mobile,Trusted,0
+C1061,Kevin Thomas,40.0,New York,10001,,98.76,13,3,ATM,New,1
+C1062,John Lee,22.0,North Carolina,28202,2025-03-05,126.75,11,0,Online,New,1
+C1063,John Young,28.0,Georgia,30303,2025-02-25,57.95,8,5,Online,Trusted,0
+C1064,James Moore,29.0,California,94105,2025-01-07,53.69,13,1,ATM,Trusted,0
+C1065,Ethan Jackson,44.0,Florida,33130,2025-03-19,296.09,2,4,Mobile,Trusted,0
+C1066,Rachel Patel,44.0,California,94105,2025-01-18,470.03,6,4,Branch,New,1
+C1067,Daniel Smith,73.0,New York,10001,2025-04-28,139.6,2,3,ATM,New,0
+C1068,Marcus Anderson,58.0,Illinois,60601,2025-03-04,348.28,8,3,ATM,Trusted,0
+C1069,David Anderson,75.0,New York,11201,2025-05-07,201.82,13,3,Branch,Trusted,0
+C1070,Emily Clark,32.0,North Carolina,28202,2025-05-13,85.77,6,2,ATM,Trusted,0
+C1071,David Martinez,65.0,New York,10001,2025-05-06,201.78,9,1,Branch,New,0
+C1072,John Brown,37.0,Georgia,30303,2025-04-05,548.58,12,1,ATM,New,1
