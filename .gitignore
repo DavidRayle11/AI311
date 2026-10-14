@@ -1,0 +1,6 @@
+# Ignore everything in archive
+/Data/archive/*
+
+# Allow only these two datasets
+!/Data/archive/phishing_email.csv
+!/Data/archive/phishing_email_part2.csv
